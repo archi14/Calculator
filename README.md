@@ -9,8 +9,9 @@ point calculation. The application is made to work on multiple screens sizes nam
 600dp: a 7” tablet (600x1024 mdpi).<br>
 720dp: a 10” tablet (720x1280 mdpi, 800x1280 mdpi, etc).<br>
 
-<img src="1.jpeg" width="400px" > </img>                   <img src="2.jpeg" width="400px" > </img>
-<img src="3.jpeg" width="400px" > </img>
+&emsp;&emsp;&emsp;&emsp;<img src="1.jpeg" width="300px" > </img>   &emsp; &emsp; &emsp; &emsp;  <img src="2.jpeg" width="300px" > </img>
+<br><br><br><br>
+&emsp;&emsp;&emsp;&emsp;<img src="3.jpeg" width="300px" > </img>
 
 
 
